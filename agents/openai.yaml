@@ -1,0 +1,8 @@
+interface:
+  display_name: "秋秋旅行图片"
+  short_description: "把旅行照片做成保真、可收藏的六种旅行视觉作品"
+  brand_color: "#5C7D9B"
+  default_prompt: "Use $qiuqiu-travel-image to turn each uploaded travel photo into a separate, source-faithful travel visual. First choose or recommend one of the six modes, then verify identity, spatial relationships, composition, and text."
+
+policy:
+  allow_implicit_invocation: true
